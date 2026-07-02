@@ -114,7 +114,7 @@ image_path,label
 Example:
 
 ```
-train/10188R.jpg	10188R
+train/10188R.jpg,10188R
 ```
 
 ---
