@@ -74,8 +74,7 @@ resnet50-crnn-license-plate-ocr/
 
 ├── ResNet50_CRNN_License_Plate_Recognition.ipynb
 ├── README.md
-├── requirements.txt
-└── .gitignore
+└── requirements.txt
 ```
 
 ---
